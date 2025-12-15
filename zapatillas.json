@@ -1,0 +1,61 @@
+[
+     {
+        "id": 1,
+        "nombre": "Air Jordan 1 High",
+        "img": "./Imagenes/zapatilla(1).png",
+        "descripcion": "Las Air Jordan 1 High presentan una construcción en cuero premium, suela con patrón de tracción y cuello acolchado, garantizando soporte, durabilidad y un look icónico.",
+        "precio": 269601.00
+
+    },
+    {
+        "id": 2,
+        "nombre": "Vans KNU SKOOL \"Brown\"",
+        "img": "./Imagenes/zapatilla2.png",
+        "descripcion": "Las Vans KNU SKOOL 'Brown' reversionan un clásico con un diseño más voluminoso, materiales resistentes y la icónica Sidestripe acolchada, ofreciendo estilo urbano y comodidad en un look moderno",
+        "precio": 175000.00
+
+    },
+    {
+        "id": 3,
+        "nombre": "Adidas Superstar II",
+        "img": "./Imagenes/zapatilla3.png",
+        "descripcion": "Las Adidas Superstar II mantienen el diseño clásico con la icónica puntera de goma, materiales duraderos y un estilo atemporal que combina con cualquier outfit",
+        "precio": 179999.00
+    },
+    {
+        "id": 4,
+        "nombre": "Vans Old Skool Classic",
+        "img": "./Imagenes/zapatilla4.png",
+        "descripcion": "Las Vans Old Skool Classic destacan por su diseño icónico con Sidestripe, materiales resistentes y un estilo urbano que nunca pasa de moda",
+         "precio": 145000.00
+    },
+    {
+        "id": 5,
+        "nombre": "Puma Rebound V6 Mujer Blanca",
+        "img": "./Imagenes/zapas5.png",
+        "descripcion": "Las Puma Rebound V6 Mujer Blanca combinan estilo deportivo y comodidad diaria, con un diseño moderno, materiales resistentes y un look limpio que combina con cualquier outfit",
+        "precio": 99000.00
+    },
+    {
+        "id": 6,
+        "nombre": "Puma Turino II SD Negra",
+        "img": "./Imagenes/zapas6.png",
+        "descripcion": "Las Puma Turino II SD Negra ofrecen un estilo clásico y elegante, con acabado en gamuza, comodidad duradera y un diseño versátil ideal para el uso diario",
+        "precio": 109000.00
+    },
+    {
+        "id": 7,
+        "nombre": "VANS Old Skool \"Yacht Club\"",
+        "img": "./Imagenes/zapas7.png",
+        "descripcion": "Las Vans Old Skool 'Yacht Club' destacan por su combinación vibrante de colores, el diseño clásico con Sidestripe y materiales duraderos, logrando un look llamativo y fresco",
+        "precio": 145990.00
+    },
+
+    {
+        "id": 8,
+        "nombre": "Adidas Yeezy Boost 350 V2 Zebra",
+        "img": "./Imagenes/zapas8.png",
+        "descripcion": "Las Adidas Yeezy Boost 350 V2 'Zebra' combinan su distintivo diseño en blanco y negro con la comodidad de la tecnología Boost, ofreciendo un estilo moderno y una pisada ultra ligera",
+        "precio": 194400.00
+    }
+]

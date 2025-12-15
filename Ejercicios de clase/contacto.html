@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+</head>
+
+
+<body>
+
+    <header>
+        <h1>Contacto</h1>
+        <h2>Comunicate con Nosotros!</h2>
+        <br>
+        <h4>Rellene el siguiente formulario:</h4>
+    </header>
+
+    <main>
+        
+
+        <form 
+            action="https://formspree.io/f/xzzaoywv"
+            method="POST"
+        >
+            <label>Escriba su Nombre:
+                <input type="text" name="nombre" required>
+            </label>
+            <br>
+            <br>
+            <label>Escriba el Email:
+                <input type="email" name="email" cols="40" required>
+            </label>
+            <br>
+            <br>
+
+            <label>Escriba su Mensaje:
+                <textarea name="mensaje" rows="4" cols="50" required></textarea>
+            </label>
+            <br>
+            <br>
+
+            <button type="submit">Enviar</button>
+    
+        </form>
+
+        <table
+            border="4"
+        >
+            <br>
+            <br>
+            <caption>Datos del Formulario</caption>
+            <thead>
+                <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Correo Electronico</th>
+                    <th scope="col">Asunto</th>
+                    <th scope="col">Estado del Mensaje</th>
+                </tr>
+
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td rowspan="3">Julia</td>
+                    <td rowspan="3">julasa2015@gmail.com</td>
+                    <td>Hola,ayuda sobre compra</td>
+                    <td>Visto</td>
+                </tr>
+
+                <tr>
+                    
+                    <td>Consulta sobre precios</td>
+                    <td>Visto</td>
+                </tr>
+
+                <tr>
+        
+                    <td>Info sobre Cantidad de Prendas</td>
+                    <td>No visto</td>
+                </tr>
+
+                <tr>
+                    <td rowspan="2">Adrian</td>
+                    <td rowspan="2">adrianbar225@gmail.com</td>
+                    <td>Compra minima</td>
+                    <td>No visto</td>
+                </tr>
+
+                <tr>
+                    
+                    <td>Hola, info de los horarios de atencion</td>
+                    <td>Visto</td>
+                </tr>
+
+                <tr>
+                    <td>Pamela</td>
+                    <td>pamelaarts@gmail.com</td>
+                    <td>Hola, una consulta sobre precios</td>
+                    <td>Visto</td>
+                </tr>
+
+                <tr>
+                    <td colspan="3">Cantidad de mensajes no vistos</td>
+                    <td>2</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+
+        
+    </main>
+
+
+</body>
+
+
+</html>
